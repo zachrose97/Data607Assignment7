@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>The Optimist: A Case for the Fly Fishing Life</title>
+        <authors>David Coggins</authors>
+        <year>2021</year>
+        <publisher>Scribner</publisher>
+    </book>
+    <book>
+        <title>How to Fish</title>
+        <authors>Chris Yates</authors>
+        <year>2006</year>
+        <publisher>Penguin Books</publisher>
+    </book>
+    <book>
+        <title>Strip-Set: Fly-Fishing Techniques, Tactics, &amp; Patterns for Streamers</title>
+        <authors>George Daniel, Pat Dorsey</authors>
+        <year>2015</year>
+        <publisher>Stackpole Books</publisher>
+    </book>
+</books>
